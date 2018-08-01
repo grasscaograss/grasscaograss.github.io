@@ -1,13 +1,13 @@
 # Site settings
-title: Jonathan Blog
+title: Jonathan's Blog
 SEOTitle: Jonathan's Blog | CoDe1230
-header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
+header-img: https://i0.wp.com/iammagnus.com/wp-content/uploads/2016/05/website-design-background-1.jpg
+email: caozengjie@outlook.com
+description: "Computational Design | Z5173508"
 keyword: "Code, code, 1230, Jonathan, Z5173508, 5173508, z5173508"
 url: "http://grasscaograss.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/grasscaograss/grasscaograss.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
