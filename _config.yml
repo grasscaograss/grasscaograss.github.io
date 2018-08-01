@@ -1,7 +1,7 @@
 # Site settings
 title: Jonathan's Blog
 SEOTitle: Jonathan's Blog | CoDe1230
-header-img:grasscaograss.github.io/oriental-pearl-tower-wallpaper-1.jpg
+header-img: grasscaograss.github.io/oriental-pearl-tower-wallpaper-1.jpg
 email: caozengjie@outlook.com
 description: "Computational Design | Z5173508"
 keyword: "Code, code, 1230, Jonathan, Z5173508, 5173508, z5173508"
@@ -18,7 +18,7 @@ sidebar-avatar: https://i0.wp.com/iammagnus.com/wp-content/uploads/2016/05/websi
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
+weibo_username:     qiubaiying
 zhihu_username:     qiubaiying
 github_username:    qiubaiying
 facebook_username:  baiying.qiu.7
@@ -62,11 +62,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: 2c56508a134665bc249a                        #生成的clientID
+  clientSecret: 3af616bcc605380c7f5716e2dec915889059c759   #生成的clientSecret
+  repo: grasscaograss.github.io    #仓库名称
+  owner: grasscaograss    #github用户名
+  admin: grasscaograss
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -74,11 +74,11 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+#ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_track_id: 'UA-123132494-1'            # Format: UA-xxxxxx-xx
+ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -99,16 +99,13 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "UNSW",
+        href: "https://www.unsw.edu.au/"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "Github",
+        href: "https://github.com/"
     },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "My Github",
+        href: "https://github.com/grasscaograss"
     }
 ]
