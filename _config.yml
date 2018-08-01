@@ -18,12 +18,8 @@ sidebar-avatar: https://i0.wp.com/iammagnus.com/wp-content/uploads/2016/05/websi
 
 # SNS settings
 RSS: false
-weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+weibo_username:     咖啡纸杯蛋糕厨
+github_username:    grasscaograss
 
 
 
@@ -96,16 +92,15 @@ service-worker: true
 
 
 
-# Friends
+# Group Members
 friends: [
     {
-        title: "UNSW",
-        href: "https://www.unsw.edu.au/"
+        title: "Blair",
+        href: "https://blairhuang.github.io/code1230/"
     },{
-        title: "Github",
-        href: "https://github.com/"
+        title: "Teresa",
+        href: "https://z5211269.github.io/CODE1230/"
     },{
-        title: "My Github",
-        href: "https://github.com/grasscaograss"
+        
     }
 ]
