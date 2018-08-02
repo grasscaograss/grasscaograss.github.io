@@ -12,7 +12,7 @@ github_repo: "https://github.com/grasscaograss/grasscaograss.github.io.git" # yo
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Love Lila!"
-sidebar-avatar: https://github.com/grasscaograss/CoDe1230-Jonathan/blob/master/img/About%20Me.jpg?raw=true     # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://github.com/grasscaograss/grasscaograss.github.io/blob/master/img/About%20Me.jpg?raw=true     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
