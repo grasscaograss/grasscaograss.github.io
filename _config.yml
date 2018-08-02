@@ -12,7 +12,7 @@ github_repo: "https://github.com/grasscaograss/grasscaograss.github.io.git" # yo
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Love Lila!"
-sidebar-avatar: https://previews.dropbox.com/p/thumb/AALWpLq6pNBvenY5167Zl72AX-FsX33uXn8dbNSeio5e1CPQHiPXY_47GbsY5wWs_NOlallQ709ztn0nYdCWuIr97jkCohd9CmHRLfNZxtOPeRlna2qAU5qtzcqoistLTSPPKldmIB7tSW6HDwwBoAZ04DGALkwIY391RT1MylOnfcVjM-eBB-ACO5azwJ4j-DfWkkov5AwetShxPjTLhO4rwrOuZU6QSA6ZGBSfQXhCsw/p.jpeg?size=1600x1200&size_mode=3     # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://github.com/grasscaograss/CoDe1230-Jonathan/blob/master/img/About%20Me.jpg?raw=true     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
