@@ -5,7 +5,7 @@ header-img: img/oriental-pearl-tower-wallpaper-1.jpg
 email: caozengjie@outlook.com
 description: "Computational Design | Z5173508"
 keyword: "Code, code, 1230, Jonathan, Z5173508, 5173508, z5173508"
-url: "https://grasscaograss.github.io"          # your host, for absolute URL
+url: "https://jonathan1230.top"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/grasscaograss/grasscaograss.github.io.git" # you code repository
 
@@ -57,7 +57,7 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: 2c56508a134665bc249a                        #生成的clientID
   clientSecret: 3af616bcc605380c7f5716e2dec915889059c759   #生成的clientSecret
   repo:  grasscaograss.github.io   #仓库名称
