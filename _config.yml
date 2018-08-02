@@ -60,7 +60,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 2c56508a134665bc249a                        #生成的clientID
   clientSecret: 3af616bcc605380c7f5716e2dec915889059c759   #生成的clientSecret
-  repo: grasscaograss.github.io    #仓库名称
+  repo:  CoDe1230-Jonathan    #仓库名称
   owner: grasscaograss    #github用户名
   admin: grasscaograss
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
