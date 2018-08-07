@@ -51,26 +51,22 @@ kramdown:
 
 
 
-# 评论系统
-# Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
 
 # Gitalk
 gitalk:
-  enable: false    #是否开启Gitalk评论
-  clientID: 2c56508a134665bc249a                        #生成的clientID
-  clientSecret: 3af616bcc605380c7f5716e2dec915889059c759   #生成的clientSecret
+  enable: true    #是否开启Gitalk评论
+  clientID: 5692b05d68511b41f3a3                      #生成的clientID
+  clientSecret: fc26a1bbb0dafa736d1c28171cb57cbe637cf681   #生成的clientSecret
   repo:  grasscaograss.github.io   #仓库名称
   owner: grasscaograss    #github用户名
   admin: grasscaograss
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
-# 统计
+
 
 # Analytics settings
-# Baidu Analytics
-#ba_track_id: b50bf2b12b5338a1845e33832976fd68
+
 
 # Google Analytics
 ga_track_id: 'UA-123132494-1'            # Format: UA-xxxxxx-xx
